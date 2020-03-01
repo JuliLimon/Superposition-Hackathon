@@ -1,8 +1,12 @@
 <!DOCTYPE html>
-<html>
-<h> Hello World! </h>
-<p> Hi again </p>
-<b> Salutations again ahhhhhh </b>
-<b> Please update for Kenzie </b>
-<p> Why won't this work ugh </p>
-</html>
+    <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width">
+
+    <title>Girl's Hub</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+    <body>
+        <h2> Welcome to Girl's Hub, a resource for all girls in STEM :)</h2>
+    </body>
+  </html>
